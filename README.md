@@ -30,5 +30,3 @@ Este projeto simula a matrícula de alunos em cursos utilizando **JPA (Java Pers
 
 Antes de rodar o projeto, é necessário configurar o banco de dados PostgreSQL. Execute o seguinte comando SQL para criar o banco de dados:
 
-```sql
-CREATE DATABASE matricula_db;
